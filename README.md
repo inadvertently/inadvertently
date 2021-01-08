@@ -1,9 +1,9 @@
-### inadvertently
- oops..
+   ### inadvertently
+   oops..
 
-### languages n tools
- - Python <br /> 
- - NodeJS <br />
+   ### languages n tools
+   - Python <br /> 
+          - NodeJS <br />
  - Mongodb <br />
  - Sqlite <br />
  - PyPy <br />
