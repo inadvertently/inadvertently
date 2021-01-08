@@ -2,8 +2,8 @@
    oops..
 
    ### languages n tools
-   - Python <br /> 
-          - NodeJS <br />
+ - Python <br /> 
+ - NodeJS <br />
  - Mongodb <br />
  - Sqlite <br />
  - PyPy <br />
