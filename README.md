@@ -1,5 +1,5 @@
    ### inadvertently
-   oops..
+   oops...
 
    ### Languages and Tools
  - Python <br /> 
