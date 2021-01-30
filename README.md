@@ -17,4 +17,4 @@
  
 ![inadvertently github stats](https://github-readme-stats.vercel.app/api?username=inadvertently&theme=midnight-purple&show_icons)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadvertently&layout=compact)](https://github.com/inadvertently/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadvertently&layout=compact&theme=midnight-purple)](https://github.com/inadvertently/github-readme-stats)
