@@ -16,3 +16,4 @@
 <a href=""https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
  
 ![inadvertently github stats](https://github-readme-stats.vercel.app/api?username=inadvertently&theme=midnight-purple&show_icons)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadvertently)](https://github.com/inadvertently/github-readme-stats)
