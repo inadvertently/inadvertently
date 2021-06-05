@@ -1,8 +1,7 @@
 <p align="center">  
-<header>
+
  <h1>inadvertently</h1>
 17 y/o Python enthusiast
-
 </p>
 <p align="center">  
 <img src="https://media.discordapp.net/attachments/837692129613578280/850583509924052992/b04d3a0946bbe86a2722ce7fc2f4f472.gif">
