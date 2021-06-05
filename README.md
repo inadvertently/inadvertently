@@ -1,6 +1,6 @@
 <p align="center">  
 
- <h1>inadvertently</h1>
+inadvertently
 17 y/o Python enthusiast
 </p>
 <p align="center">  
