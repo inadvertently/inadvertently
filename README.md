@@ -1,20 +1,16 @@
    ### inadvertently
-   oops...
+   17 y/o Python enthusiast
+   ![Profile views](https://komarev.com/ghpvc/?username=inadvertently)
 
-   ### Languages and Tools
- - Python <br /> 
- - NodeJS <br />
- - Mongodb <br />
- - Sqlite <br />
- - PyPy <br />
- - Golang (studying) <br />
- 
- ![Profile views](https://komarev.com/ghpvc/?username=inadvertently)
- 
-<p align="left"> <a href=""ss" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a  width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<a href=""https://dashboard.heroku.com/apps" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> </a>
-<a href=""https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
- 
-![inadvertently github stats](https://github-readme-stats.vercel.app/api?username=inadvertently&theme=midnight-purple&show_icons)
+   ### Knowledge 🧠
+   <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40"> - [[Python](https://www.python.org/)] 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="40"> - [[Javascript](https://www.javascript.com/)] 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" width="40"> - [[Golang](https://golang.org/)] 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"> - [[C++](https://www.cplusplus.com/)]
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" width="40"> - [[CSS](https://www.w3schools.com/css/)] 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" width="40"> - [[HTML](https://www.w3schools.com/html/)] 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mongodb/mongodb-original.svg" width="40"> - [[MongoDB](https://www.mongodb.com/)] 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadvertently&layout=compact&theme=midnight-purple)](https://github.com/inadvertently/github-readme-stats)
+
+ 
+![inadvertently github stats](https://github-readme-stats.vercel.app/api?username=inadvertently&theme=midnight-purple&show_icons)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadvertently&layout=compact&theme=midnight-purple)](https://github.com/inadvertently/github-readme-stats)
