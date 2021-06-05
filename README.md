@@ -1,6 +1,6 @@
 <p align="center">  
 inadvertently
-   17 y/o Python enthusiast
+17 y/o Python enthusiast
 </p>
 
 
