@@ -17,7 +17,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" width="40">
    - [[HTML](https://www.w3schools.com/html/)] 
    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mongodb/mongodb-original.svg" width="40"> 
-   - [[MongoDB](https://www.mongodb.com/)] 
+   #- [[MongoDB](https://www.mongodb.com/)] 
 
 
  
