@@ -20,7 +20,7 @@ class ReadMe:
 
     def current(self, now=2021):
         today = self.year
-        if now = today:
+        if now == today:
             focus = self.bio['Asura Discord Bot']
             return f"""
             {focus}
