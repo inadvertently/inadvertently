@@ -6,7 +6,11 @@ inadvertently</p>
 <img src="https://komarev.com/ghpvc/?username=inadvertently">
 </p>
   
+  
+ <p align="center"> 
 ![Discord](https://discord.c99.nl/widget/theme-4/493545772718096386.png)
+ </p>
+  
 
 ```python
 class ReadMe:
