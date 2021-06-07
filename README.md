@@ -7,9 +7,9 @@ inadvertently</p>
 </p>
   
   
- <p align="center"> 
-![Discord](https://discord.c99.nl/widget/theme-4/493545772718096386.png)
- </p>
+<p align="center">  
+<img src="https://discord.c99.nl/widget/theme-4/493545772718096386.png">
+</p>
   
 
 ```python
