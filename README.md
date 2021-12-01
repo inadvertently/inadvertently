@@ -8,7 +8,7 @@ inadvertently</p>
   
   
 <p align="center">  
-<img src="https://discord.c99.nl/widget/theme-4/493545772718096386.png">
+<img src="https://discord.c99.nl/widget/theme-4/167385139800834048.png">
 </p>
   
 
@@ -19,14 +19,14 @@ class ReadMe:
         self.name = "sorrow"
         self.bio = {
             'knowledge': ['Python', 'Basic Javascript', 'Golang', 'CSS', 'CPP', 'HTML'],
-            'Discord': ['sorrow#1984', 'ID - 493545772718096386'],
+            'Discord': ['sorrow#1984', 'ID - 167385139800834048'],
             'Telegram': ['https://t.me/sorrow1984']
         }
 
     def current(self, now=2021):
         today = self.year
         if now == today:
-            focus = self.bio['Asura Discord Bot']
+            focus = self.bio['Blame discord bot']
             return f"""
             {focus}
             """
