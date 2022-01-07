@@ -1,46 +1,72 @@
-<p align="center">  
-inadvertently</p>
-<p align="center">  
-17 y/o Python enthusiast</p>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hi!, I'm
+                <b><a target="_blank" href="http://blame.gg">Sorrow.</a></b>
+        </samp>
+</h3>
+<br>
+
+<p align="center">
+        <samp>
+                <br>
+                「 I'm currently 17 and enjoy experimenting with various API's on my free time.  」
+                <br>
+                <br>
+        </samp>
+        <!-- Programming Languages -->
+        <!-- Code logo -->
+        <a href="https://github.com/inadevertently?tab=repositories" target="_blank"><img alt="Code"
+                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+        </a>
+        <!-- py -->
+        <a href="https://github.com/inadevertently?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        </a>
+        <!-- Js  -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Javascript"
+                        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        </a>
+        <!-- CSS -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+        </a>
+        <!-- HTML -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+        </a>
+        <!-- Go -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Golang"
+                        src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+        </a>
+
+</p>
+
+
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=inadvertently">
 </p>
   
-  
 <p align="center">  
-<img src="https://discord.c99.nl/widget/theme-4/167385139800834048.png">
+<img src="https://cdn.discordapp.com/attachments/757705802730569750/928870042995687474/techstack.gif">
+</p>
+
+</div>
+
+<hr></hr>
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Backend**. <img width="15%" align="right" alt="Github Image" img src="https://i.pinimg.com/564x/ec/37/6c/ec376cc3e3dd5120cd27ea8f41417669.jpg" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[sorrow1984](https://t.me/sorrow1984)** or discord **below**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Invite my verified discord bot, serving over 800K users!: **[here](http://blame.gg)**.<br>
+
+
+<p align="center">  
+<img src="https://discord.c99.nl/widget/theme-4/493545772718096386.png">
 </p>
   
 
-```python
-class ReadMe:
-    def __init__(self, username="inadvertently"):
-        self.username = username
-        self.name = "sorrow"
-        self.bio = {
-            'knowledge': ['Python', 'Basic Javascript', 'Golang', 'CSS', 'CPP', 'HTML'],
-            'Discord': ['sorrow#1984', 'ID - 167385139800834048'],
-            'Telegram': ['https://t.me/sorrow1984']
-        }
-
-    def current(self, now=2021):
-        today = self.year
-        if now == today:
-            focus = self.bio['Blame discord bot']
-            return f"""
-            {focus}
-            """
-        else:
-            return 
-            
-```
 
 
-<p align="center">  
- Knowledge 🧠</p>
- <p align="center">  
- <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" width="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/mongodb/mongodb-original.svg" width="40"> 
-   </p>
+
 
 
 
