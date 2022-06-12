@@ -53,7 +53,7 @@
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Backend**. <img width="15%" align="right" alt="Github Image" img src="https://i.pinimg.com/564x/ec/37/6c/ec376cc3e3dd5120cd27ea8f41417669.jpg" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[sorrow1984](https://t.me/sorrow1984)** or discord **below**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Invite my verified discord bot, serving over 800K users!: **[here](http://blame.gg)**.<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Invite my verified discord bot, serving over 1.1M users!: **[here](http://blame.gg)**.<br>
 
 
 <p align="center">  
