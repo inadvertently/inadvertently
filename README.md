@@ -75,15 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=inadvertently&hide=TeX&layout=compact&theme=codeSTACKr&bg_color=0d1117&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<style>
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-
-<br><br>
-
 
 <details>
   <summary>🚀 What langauge am I most fond of?</summary>
