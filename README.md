@@ -22,7 +22,7 @@
     <a href="https://www.ebay.com/str/leiscosmetics">
       <img alt="ebay sales" title="check my ebay store" src="https://custom-icon-badges.demolab.com/badge/Ebay-410k-C48C02.svg?logo=ebay&logoColor=white&style=for-the-badge&labelColor=f5af02"/>
     </a> 
-    <a href="https://www.ebay.com/str/leiscosmetics">
+    <a href="https://www.etsy.com/shop/AromaDepotInc">
       <img alt="etsy sales" title="check my etsy store" src="https://custom-icon-badges.demolab.com/badge/Etsy-71k-FEF0E6.svg?logo=etsy&logoColor=white&style=for-the-badge&labelColor=F56400"/>
     </a> 
     <a href="https://github.com/inadvertently?tab=repositories&sort=stargazers">
@@ -74,6 +74,15 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=inadvertently&hide=TeX&layout=compact&theme=codeSTACKr&bg_color=0d1117&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<style>
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+<br><br>
 
 
 <details>
