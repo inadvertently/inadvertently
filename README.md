@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>
-    I'm a 19-year-old entrepreneur and self-taught Python developer, coding programs that will simplify my tasks. All of my projects are from scratch, and are mainly used to assist me with my e-commerce journey, from data transfer/retrieval to trademark infringement through metatags. Beyond entrepreneurship, some projects are just for the fun of coding. Checkout some of my stores with a whopping total of over a million sales! 🚀
+    I'm a 20-year-old entrepreneur and self-taught Python developer, coding programs that will simplify my tasks. All of my projects are from scratch, and are mainly used to assist me with my e-commerce journey, from data transfer/retrieval to trademark infringement through metatags. Beyond entrepreneurship, some projects are just for the fun of coding. Checkout some of my stores with a whopping total of over a million sales! 🚀
   </p>
 
 <p align="center">  
