@@ -26,7 +26,7 @@
       <img alt="etsy sales" title="check my etsy store" src="https://custom-icon-badges.demolab.com/badge/Etsy-71k-FEF0E6.svg?logo=etsy&logoColor=white&style=for-the-badge&labelColor=F56400"/>
     </a> 
     <a href="https://github.com/inadvertently?tab=repositories&sort=stargazers">
-    <a href="https://www.youtube.com/c/aromadepot1">
+    <a href="https://www.youtube.com/@aromadepot1">
       <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzjqRrKv-hUzLGav-5X7_xA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
     </a> 
   </p>
